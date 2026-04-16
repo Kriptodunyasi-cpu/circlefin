@@ -6,18 +6,18 @@ PromptPay is a decentralized AI marketplace optimized for the **Arc Network**. I
 Today’s AI landscape is dominated by monthly subscription models. This creates barriers for users who only need occasional access and results in "subscription fatigue" where users pay for services they don't fully utilize.
 
 ## 💡 The Solution: Pay-Per-Thought
-PromptPay disrupts this model by introducing a granular economy:
+PromptPay disrupts this model by introducing a granular economy on the Arc Network:
 * **No Subscriptions:** Access premium AI without a monthly commitment.
 * **Micro-Payments:** Pay only for what you use, down to the single prompt level.
-* **Price Stability:** All interactions and gas fees are handled in **Native USDC (18 decimals)**, ensuring 100% cost predictability.
+* **Price Stability:** All interactions and gas fees are handled in **Native USDC (18 decimals)**, ensuring 100% cost predictability without ETH volatility.
 
 ---
 
 ## 🚀 Mission & Vision
 
-* **🌟 Mission:** Contributing to the decentralized future through individual innovation. By leveraging Arc Network's technical capabilities, I aim to create solutions that provide transparent and fair financial models for AI.
-* **🔭 Vision:** To establish myself as an active and productive developer within the Arc Network ecosystem. This project is my first step toward growing alongside the community and building fundamental blocks on Arc.
-* **🏗️ Developer's Note:** This project is currently developed solely by me. My motivation is to deeply understand Arc Network’s scalability and build tools that provide real utility.
+* **🌟 Mission:** Contributing to the decentralized future through individual innovation. By leveraging Arc Network's technical capabilities, I aim to create solutions that provide transparent and fair financial models for AI interactions.
+* **🔭 Vision:** To establish myself as an active and productive developer within the Arc Network ecosystem. This project is my first step toward growing alongside the community and building fundamental infrastructure on Arc.
+* **🏗️ Developer's Note:** This project is currently developed solely by me. My primary motivation is to deeply understand Arc Network’s scalability and build tools that provide real utility to the ecosystem.
 
 ---
 
