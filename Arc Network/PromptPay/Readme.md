@@ -39,8 +39,45 @@ PromptPay disrupts this model by introducing a granular economy:
 - Gemini API Key ([Get it here](https://aistudio.google.com/))
 - A Web3 Wallet (e.g., MetaMask)
 
-### 1. Local Development
+### 1. Network Configuration (Arc Testnet)
+Add the following network to your wallet:
+| Property | Value |
+|---|---|
+| **Network Name** | Arc Testnet |
+| **RPC URL** | https://rpc.testnet.arc.io |
+| **Chain ID** | 1111 |
+| **Currency Symbol** | USDC |
+| **Block Explorer** | https://explorer.testnet.arc.io |
+
+### 2. Environment Setup
+Create a `.env` file in the root directory:
+```env
+# Required for AI responses
+VITE_GEMINI_API_KEY=your_gemini_api_key
+
+# Required for self-referential links / callbacks
+VITE_APP_URL=https://your-app-url.com
+
+# Optional: Custom Arc RPC URL
+VITE_ARC_RPC_URL=https://rpc.testnet.arc.io
+```
+
+### 3. Local Development
 ```bash
-git clone [https://github.com/yourusername/PromptPay.git](https://github.com/yourusername/PromptPay.git)
-cd PromptPay
+# Install dependencies
 npm install
+
+# Start development server
+npm run dev
+```
+
+## 📜 Smart Contract Deployment
+To deploy the contract to Arc Network, use Foundry:
+```bash
+forge create --rpc-url https://rpc.testnet.arc.io \
+  --private-key $YOUR_PRIVATE_KEY \
+  contracts/PromptPay.sol:PromptPay
+```
+
+---
+Built with passion for the **Arc Network** ecosystem. 🌐🤖
