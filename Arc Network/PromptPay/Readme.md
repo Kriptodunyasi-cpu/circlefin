@@ -1,4 +1,5 @@
 # PromptPay (Arc Network Edition) 🧠💰
+<img width="1182" height="577" alt="Screenshot 2026-04-17 041040" src="https://github.com/user-attachments/assets/32c1af6f-a414-4abe-862b-dcad94ac489b" />
 
 PromptPay is a decentralized AI marketplace optimized for the **Arc Network**. It leverages **Native USDC** to eliminate rigid subscription models, making AI services accessible through transparent, instant "pay-per-thought" micro-payments.
 
