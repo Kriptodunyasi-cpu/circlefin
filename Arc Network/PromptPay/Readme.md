@@ -45,7 +45,7 @@ Add the following network to your wallet:
 |---|---|
 | **Network Name** | Arc Testnet |
 | **RPC URL** | https://rpc.testnet.arc.io |
-| **Chain ID** | 1111 |
+| **Chain ID** | 5042002 |
 | **Currency Symbol** | USDC |
 | **Block Explorer** | https://explorer.testnet.arc.io |
 
@@ -70,6 +70,10 @@ npm install
 # Start development server
 npm run dev
 ```
+
+## 📜 Deployed Contract
+- **Contract Address:** `0x51af5B55Cc6e6E1bbF8267ee1CF5c42bc28e4459`
+- **Network:** Arc Testnet (Chain ID: 5042002)
 
 ## 📜 Smart Contract Deployment
 To deploy the contract to Arc Network, use Foundry:
