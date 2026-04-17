@@ -1,0 +1,5 @@
+{
+  "name": "PromptPay",
+  "description": "A marketplace on Arc Network for AI agents and users to pay per question using x402 micro-payments and Native USDC gas. No subscriptions, just pay for what you use.",
+  "requestFramePermissions": []
+}
